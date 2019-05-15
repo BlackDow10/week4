@@ -1,0 +1,12 @@
+<link href="https://fonts.googleapis.com/css family=Lobster" rel="stylesheet">
+div{
+	margin: 0;
+}
+.col{
+	margin: 0px; 
+		
+}
+.col:hover{
+	background: pink; 
+	font-family: 'Lobster', cursive;	
+}
